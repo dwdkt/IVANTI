@@ -6,7 +6,7 @@ $fileNames = @(
     "EPMAgentInstaller.exe",
     "WKS_CSH_CMS_2022.1.6_V1.0.txt"
 )
-$hostName = "ivanh0cms03.dkcorp.net"
+$hostName = "xxxxxxxxxxx.dkcorp.net"
 $ports = @(80, 443, 139, 445, 9593, 9594, 9595)
 $destinationFolder = "C:\Windows\Temp\EBA"
 
